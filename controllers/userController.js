@@ -65,7 +65,7 @@ const handleLogin = async (req, res) => {
       user: {
         email: user.email,
         firstName: user.firstName,
-        lastname: user.lastName,
+        lastName: user.lastName,
       },
     });
   } catch (error) {
