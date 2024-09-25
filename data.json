@@ -6,7 +6,7 @@
     "location": "Beverly Hills, CA",
     "bedrooms": 5,
     "bathrooms": 4,
-    "price": 4500000,
+    "price": 4500,
     "squareMeter": 300
   },
   {
@@ -90,7 +90,7 @@
     "squareMeter": 500
   },
   {
-    "image": "https://www.istockphoto.com/photo/new-sustainable-single-family-home-with-a-garden-gm1987087979-559360391?utm_campaign=srp_photos_bottom&utm_content=https%3A%2F%2Funsplash.com%2Fs%2Fphotos%2Fhouses-exterior&utm_medium=affiliate&utm_source=unsplash&utm_term=houses+exterior%3A%3Areduced-affiliates%3Ahalf",
+    "image": "https://media.istockphoto.com/id/1147674294/photo/single-family-new-construction-home-in-suburb-neighborhood-in-the-south.jpg?s=612x612&w=0&k=20&c=OamzEVBG9yuj7pPiRt1gefEXw0Onb6ByMVkMCO7nscw=",
     "availability": "rent",
     "title": "Cozy Cabin in the Woods",
     "location": "Denver, CO",
@@ -100,7 +100,7 @@
     "squareMeter": 120
   },
   {
-    "image": "https://www.istockphoto.com/photo/house-with-garden-gm2153136329-574093011?utm_campaign=srp_photos_bottom&utm_content=https%3A%2F%2Funsplash.com%2Fs%2Fphotos%2Fhouses-exterior&utm_medium=affiliate&utm_source=unsplash&utm_term=houses+exterior%3A%3Areduced-affiliates%3Ahalf",
+    "image": "https://www.istockphoto.com/photo/large-pool-in-front-of-a-white-house-in-encino-california-gm2155899949-576691499",
     "availability": "sale",
     "title": "Riverside Mansion",
     "location": "Chicago, IL",
